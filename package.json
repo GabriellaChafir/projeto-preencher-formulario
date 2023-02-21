@@ -1,0 +1,19 @@
+{
+  "name": "cypress-projeto-v1.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open --e2e"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "run": "^1.4.0"
+  }
+}
